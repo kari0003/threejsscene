@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.103.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
